@@ -1,0 +1,15 @@
+com\qa\service\AccountService.class
+com\qa\Rest\AccountController.class
+com\qa\Rest\JAXActivator.class
+com\qa\service\AccountServiceImpl.class
+com\qa\persistence\domain\Account.class
+com\qa\persistence\repository\DeckDBRepositry.class
+com\qa\persistence\repository\AccountDBRepositry.class
+com\qa\Rest\DeckController.class
+com\qa\persistence\domain\Deck.class
+com\qa\service\DeckService.class
+com\qa\service\DeckServiceImpl.class
+com\qa\util\JSONUtil.class
+com\qa\persistence\repository\AccountRepository.class
+com\qa\persistence\repository\DeckRepositry.class
+com\qa\Rest\CORSFilter.class
